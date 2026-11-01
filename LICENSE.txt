@@ -1,0 +1,31 @@
+AcademicVault Freeware Licence
+
+Copyright (c) 2026 [COPYRIGHT HOLDER: to be filled in by the author before general release]. All rights reserved.
+
+AcademicVault is freeware. It is not open-source software, and its source code is not part of this licence.
+
+1. Permission to use
+   You may install and use AcademicVault free of charge, on any number of your own computers, for personal, academic and
+   institutional (teaching, research and administration) purposes.
+
+2. Not allowed
+   - Commercial use, and selling, renting or charging for AcademicVault or for access to it.
+   - Modifying AcademicVault, or decompiling, disassembling or otherwise reverse engineering it, except where the law
+     allows this despite this restriction.
+   - Removing or changing this notice.
+
+3. Redistribution
+   You may pass on the unchanged installer, free of charge. Any other distribution needs the author's written permission.
+
+4. No warranty
+   AcademicVault is provided "as is", without warranty of any kind. The author is not liable for any loss, including loss
+   of data, arising from its use. Keep your own backups.
+
+5. Ownership
+   AcademicVault remains the property of the copyright holder named above. This licence gives you the right to use it; it
+   does not transfer ownership.
+
+6. Ending the licence
+   The licence ends automatically if you break these terms. Then you must stop using AcademicVault and delete your copies.
+
+This text is a working draft while AcademicVault is in testing.
