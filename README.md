@@ -59,11 +59,20 @@ AcademicVault keeps what a university teacher has to look after in one organized
 ## Download and install
 
 1. Open the [latest release](../../releases/latest).
-2. Download `AcademicVaultApp-win-Setup.exe` and run it. No administrator rights are needed; it installs for the current user only.
+2. Download the file whose name ends in `Setup.exe` (from the next version on it also shows the version and the processor type, for example `AcademicVaultApp-0.1.3-win-x64-Setup.exe`) and run it. No administrator rights are needed; it installs for the current user only.
 3. Windows may show an "unknown publisher" warning because the installer is not code-signed yet. Choose **More info**, then **Run anyway**.
 4. At the first start, choose a folder. AcademicVault makes a **Data** folder (your database, files and exports) and a **Backups** folder inside it. Choose a folder you look after, for example on a drive that is backed up.
 
-**Requirements:** 64-bit Windows 10 (version 1607 or newer) or Windows 11. Nothing else needs to be installed.
+## System requirements
+
+| | |
+|---|---|
+| **Operating system** | 64-bit Windows 10 (version 1607 or newer) or Windows 11 |
+| **Processor type** | 64-bit (x64). There is no 32-bit (x86) version |
+| **Disk space** | About 140 MB for the program (the download is about 65 MB), plus room for your own data and backups |
+| **Other software** | Nothing to install. The .NET runtime is included, and Microsoft Word is not needed (Word files are written by AcademicVault itself) |
+| **Administrator rights** | Not needed. It installs for the current user only |
+| **Internet** | Only to download the installer and to check for updates. AcademicVault works fully offline |
 
 ## Updates
 
