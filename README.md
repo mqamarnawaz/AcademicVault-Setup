@@ -59,7 +59,7 @@ AcademicVault keeps what a university teacher has to look after in one organized
 ## Download and install
 
 1. Open the [latest release](../../releases/latest).
-2. Download the file whose name ends in `Setup.exe` (from the next version on it also shows the version and the processor type, for example `AcademicVaultApp-0.1.3-win-x64-Setup.exe`) and run it. No administrator rights are needed; it installs for the current user only.
+2. Download the file whose name ends in `-win-x64-Setup.exe` (for example `AcademicVaultApp-0.1.3-win-x64-Setup.exe`) and run it. No administrator rights are needed; it installs for the current user only.
 3. Windows may show an "unknown publisher" warning because the installer is not code-signed yet. Choose **More info**, then **Run anyway**.
 4. At the first start, choose a folder. AcademicVault makes a **Data** folder (your database, files and exports) and a **Backups** folder inside it. Choose a folder you look after, for example on a drive that is backed up.
 
@@ -82,7 +82,7 @@ Each time it starts, an installed copy checks this page for a newer version and 
 
 - Your data lives in the folder you chose, on your computer. There is no account, no cloud and no tracking.
 - The only network use is the check for a newer version on this page.
-- You can move the data and backup folders later in **Settings > Data folders**.
+- You can move the data and backup folders later in **Settings > Storage folders**.
 - Keep your own backups as well; the licence says so.
 
 ## What is new
